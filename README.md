@@ -5,7 +5,10 @@
 - 🔭 I’m currently working on Django projects.
 - 🌱 I’m currently learning Django.
 - 💬 Ask me about web development and tech related stuff.
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him/
+- 😄 Pronouns: He/Him
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shubhamverma2796&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
