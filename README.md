@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on Django projects.
-- 🌱 I’m currently learning Django.
+- 🔭 I’m currently working on ReactJs projects.
+- 🌱 I’m currently learning React.
 - 💬 Ask me about web development and tech related stuff.
 - 😄 Pronouns: He/Him
 
